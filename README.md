@@ -1,7 +1,7 @@
 ## Seed code - Boilerplate 
 
 ### Instructions
-Refer the problem.md file for problem description. 
+Refer the PROBLEM.md file for problem description. 
 
 #### To use this as a boilerplate for your assignment, please follow these steps
 
@@ -17,7 +17,7 @@ Refer the problem.md file for problem description.
      
      `git status`
 
-5. Complete the solution as per the instructions given in problem.md and the boilerplate code
+5. Complete the solution as per the instructions given in PROBLEM.md and the boilerplate code
 
 6. Use the following command to update the index using the current content found in the working tree, to prepare the content staged for the next commit.
 
